@@ -1,1 +1,1 @@
-# Here is some examples of the xsl-transformations.  
+# Here is an example of xsl-transformations.  
